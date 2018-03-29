@@ -1,0 +1,2 @@
+# NEKitRule
+NEKitRule.conf file
